@@ -1,0 +1,13 @@
+h1. Genere Fiction Generator
+
+This is an implementation of Wondermark's Genre fiction generator in Duby.
+
+h2. Running
+
+The program is just a script, duby run the story maker file to generate a thrilling synopsis of your story.
+
+h2. Issues
+
+Although the string interpolation and array functionality are great, I've failed to get maps to work in a Ruby like way and ended up with something quite verbose and I have yet to get the closure working to remove the duplication in the creation of the story data.
+
+The a/an issue also needs to be resolved.
